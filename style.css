@@ -317,14 +317,15 @@ main {
 
 
 @media (max-width: 380px) {
-  body, main {
-    width: 98%;
+  main {
+    width: 96%;
     margin: auto;
   }
 
   .allvidio, .vidiomain {
-    width: 95%;
+    width: 100%;
   }
 }
+
 
 
