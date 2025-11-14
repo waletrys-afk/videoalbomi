@@ -316,7 +316,7 @@ main {
 
 
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
   main {
     width: 95%;
     margin: auto;
@@ -327,9 +327,10 @@ main {
 
   .allvidio, .vidiomain {
     width: 100%;
-    
+    margin: auto;
   }
 }
+
 
 
 
