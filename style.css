@@ -318,15 +318,19 @@ main {
 
 @media (max-width: 380px) {
   main {
-    width: 90%;
+    width: 95%;
     margin: auto;
+    transform: translatex(50%);
+    position: relative;
+    left: -50%;
   }
 
   .allvidio, .vidiomain {
     width: 100%;
-    margin: auto;
+    
   }
 }
+
 
 
 
