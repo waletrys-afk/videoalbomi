@@ -318,7 +318,7 @@ main {
 
 @media (max-width: 380px) {
   main {
-    width: 96%;
+    width: 92%;
     margin: auto;
   }
 
@@ -326,6 +326,7 @@ main {
     width: 100%;
   }
 }
+
 
 
 
